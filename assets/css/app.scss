@@ -1,0 +1,26 @@
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-synthesis: none;
+	line-height: 1.8;
+	text-size-adjust: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	word-break: break-word;
+	color-scheme: dark;
+	color: hsl(214, 47%, 90%);
+	background-color: hsl(214, 47%, 10%);
+}
+
+a {
+	color: hsl(214, 47%, 75%);
+}

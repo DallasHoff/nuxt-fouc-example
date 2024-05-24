@@ -1,0 +1,11 @@
+**/node_modules
+*.log*
+/Icon?
+.DS_Store
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+.npmrc
